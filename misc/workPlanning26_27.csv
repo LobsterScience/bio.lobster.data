@@ -1,0 +1,51 @@
+﻿wp,activity,start_date,end_date,,,,
+WP1- LFA 33-41 Stock Assessment Framework,1.1 Survey Analyses (A),1,4,,,,
+WP1- LFA 33-41 Stock Assessment Framework,1.2 Logbook analyses (ABCV),2,4,,,,
+WP1- LFA 33-41 Stock Assessment Framework,1.3 Temparture modelling (A),1,2,,,,
+WP1- LFA 33-41 Stock Assessment Framework,1.4 Life history updating(VGS),1,3,,,,
+WP1- LFA 33-41 Stock Assessment Framework,1.5 Reference Points(A),4,5,,,April,1
+WP1- LFA 33-41 Stock Assessment Framework,1.6 Document Preparation(ABVCGS),2,6,,,May,2
+WP1- LFA 33-41 Stock Assessment Framework,1.7 Meeting(ABV),7,7,,,June,3
+WP2- Field work,2.1 ILTS Spring (CVBG),3,3,,,July,4
+WP2- Field work,2.2 ILTS Fall (CVG),6,6,,,August,5
+WP2- Field work,2.3 Tagging (BG),1,7,,,September,6
+WP2- Field work,2.4 Maturity Sampling (VS),2,4,,,October,7
+WP2- Field work,2.5 Dive surveys (VS),4,7,,,November,8
+WP2- Field work,"2.6 At-Sea Sampling Training (V, B, S)",2,8,,,December,9
+WP3- Stock Updates,3.1 LFA 27 - 32 (B),9,10,,,January,10
+WP3- Stock Updates,3.2 LFA 35 (VS),9,10,,,February,11
+WP3- Stock Updates,3.3 LFA 36-38 (VS),9,10,,,March,12
+WP4- Stock Assessment /Advice,4.1 LFA 33 (BA),6,9,,,,
+WP4- Stock Assessment /Advice,4.2 LFA 34 (AB),6,9,,,,
+WP4- Stock Assessment /Advice,4.3 LFA 41 (VA),6,9,,,,
+WP4- Stock Assessment /Advice,4.4 Harvest Controls Follow-up Presentation (AB),3,11,,,,
+WP5- Climate change research,5.1 Writing (A),1,2,,,,
+WP5- Climate change research,5.2 Communication (A),9,9,,,,
+WP6- Target Reference Points Support,6.1 Consultation and development (A),1,12,,,,
+WP6- Target Reference Points Support,6.2 Viability kernal development (A),9,10,,,,
+WP7- Collaborative Research and Engagement,7.1 Ecosystem based research (A),1,12,,,,
+WP7- Collaborative Research and Engagement,7.2 First Nations Fisheries (ABV),1,12,,,,
+WP7- Collaborative Research and Engagement,7.3 Can/US Collaborations (A),1,12,,,,
+WP8- Requests for advice as SME,"8.1 Wind, aquaculture, ocean use, etc (BVGA)",1,12,,,,
+WP9- Data Projects,9.1 Recruitment trap data (BG),7,10,,,,
+WP9- Data Projects,9.2 At sea sampling data (VS),1,12,,,,
+WP9- Data Projects,9.3 At sea data entry system (GV),2,5,,,,
+WP9- Data Projects,9.4 Tagging entry (GB),1,12,,,,
+WP9- Data Projects,9.5 Survey data cleaning and analyses (CGA),6,8,,,,
+WP9- Data Projects,"9.6 Logbook clean up, elog, eslips (SCVABG)",1,12,,,,
+WP9- Data Projects,9.7 R package HC evaluation (A),1,2,,,,
+WP9- Data Projects,9.8 Maturity Database build (VA),1,4,,,,
+WP9- Data Projects,9.9 Tag Participant Report Generation and Distribution (GB),7,8,,,,
+WP9- Data Projects,9.10 Tag Database App Developement and Maintenance (GB),7,8,,,,
+WP9- Data Projects,"9.11 Vent Study Data Entry, Analysis, Participant Reports (B)",7,8,,,,
+WP10- Budgeting and Workplanning,10.1 Continual (BVGSCA),1,12,,,,
+WP11- Reports,11.1 Bycatch Research Document  (VA),7,8,,,,
+WP11- Reports,11.2 Maturity Methods Tech Report (VS),7,8,,,,
+WP11- Reports,11.3 Finalize 35-38 FW (VA),3,3,,,,
+WP11- Reports,"11.4 HC ResDoc (A,B,G)",1,2,,,,
+WP11- Reports,"11.5 Survey Tech Report (C,A,G)",1,2,,,,
+WP11- Reports,11.6 Vent Study Tech Report (B),3,4,,,,
+WP11- Reports,11.7 Clutch Fullness Fecundity (A),2,3,,,,
+WP11- Reports,11.8 Maturity Primary Publication (VSA),1,9,,,,
+WP11- Reports,11.9 Lobster Habitat Dive Paper (VSA),2,11,,,,
+WP12- CSRF_Tam,"12.1 Risk Based Advice (A,B,V)",1,12,,,,
